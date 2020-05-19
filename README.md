@@ -1,4 +1,4 @@
-# Forecasting-Vegetable-Prices-in-an-Indian-market-setting
+# Forecasting vegetable prices in an Indian market seeting (a typical mandi)
 The problem required to forecast the minPrice , maxPrice and modalprice
 
 Libraries Used : pandas, numpy, matplotlib and statsmodels libraries in Python 
